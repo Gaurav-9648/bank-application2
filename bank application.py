@@ -1,6 +1,5 @@
 import sys,os
 
-#username,pwd,bal
 class Bank:
 
     def __init__(self):
